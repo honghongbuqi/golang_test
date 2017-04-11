@@ -92,6 +92,27 @@
     }
 ```
 
+## 水平分割线 demo
+
+---
+
+    hello world
+    
+***
+    hello world
+
+## HTML 代码 demo
+
+<p align='center'> Hello World!</p>
+
+## 表格 demo
+
+|   这   |   是    |   表头     |
+|:-----   |:------  |:--------  | 
+
+
+<!--- 下面是本文章用到的链接引用 --->
+
 [百度]: http://www.baidu.com
 [README]: README.md
 [代码块 demo]:test.md#代码块-demo
