@@ -1,3 +1,4 @@
+## 环境搭建
 1. 启动 mysql服务器  mysql -u root -p, 输入密码123456
 	(0)show global variables like 'port'; 启动客户端连接时链接该port, 默认3306
 	(1)create dabase gc;
