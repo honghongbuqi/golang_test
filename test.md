@@ -109,7 +109,25 @@
 
 |   这   |   是    |   表头     |
 |:-----   |:------  |:--------  | 
+| column1 | column2| column3|
+| **row2** | *row2* | ***row2*** |
 
+## GFM demo
+
+Github Fivored Markdown
+
+### task list
+- [x] item1
+- [ ] item2 
+- [x] item3  
+
+### emoji
+
+:smile:
+:laughing:
+:mask:
+:flushed:
+:cry:
 
 <!--- 下面是本文章用到的链接引用 --->
 
